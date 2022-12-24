@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Test Page
-nav_order: 1
+title: Test Page 1
+nav_order: 2
 ---
+
 test page number 1
